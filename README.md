@@ -62,7 +62,7 @@ A full-featured social platform with posting, following, liking, and commenting 
 ## 📫 Let's Connect
 
 - 📧 nippunsingla07@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/nippun-singla-b37861267)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nippun-singla-b37861267/)
 - 📍 Vancouver, BC
 
 ---
