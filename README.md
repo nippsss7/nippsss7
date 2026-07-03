@@ -34,18 +34,22 @@ OpenAI API · LangChain · YOLO · SLAM · FAISS
 
 ### 🚗 BuddRide — Ride-Sharing Platform
 A carpooling platform that connects drivers and passengers travelling the same route, cutting commute costs and reducing single-occupancy vehicle emissions. Includes identity verification, a driver rating system, and route-based search.
+
 **Tech:** React · FastAPI · PostgreSQL · Docker · JWT
 
 ### 🧠 MindMap AI — Adaptive Study Platform
 An AI-powered study tool that generates personalized quizzes and flashcards from your own notes, then adapts difficulty based on your performance. Uses semantic search over uploaded documents.
+
 **Tech:** React · Node.js · MongoDB · OpenAI API · LangChain · FAISS
 
 ### 🤖 LIMO — AI-Powered Voice-Controlled Robot
 An autonomous robot that responds to natural voice commands, maps its surroundings with SLAM, and identifies objects in real time using YOLO.
+
 **Tech:** Python · ROS 2 · YOLO · SLAM
 
 ### 💬 Strive — Social Media Platform
 A full-featured social platform with posting, following, liking, and commenting — architected for scalability with secure REST APIs and image handling.
+
 **Tech:** React · Node.js · Express.js · MongoDB · Cloudinary
 
 ---
